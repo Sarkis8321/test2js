@@ -29,3 +29,21 @@
 // выведите все числа до 100 которые делятся на 3
 // выведите название месяца по его номеру
 // компьютер загадывает число от 1 до 3, и дает пользователю возможность его отгадать
+
+// let max = 3;
+// let min = 1;
+// let a =  Math.floor(Math.random() * (max - min + 1)) + min;
+
+
+// //Function Declaration
+// function f1(mx, mn){
+//     let a = Math.floor(Math.random() * (mx - mn + 1)) + mn
+//     return a
+// }
+
+// //Function Expression
+// let f2 = function(mx, mn){
+//     let a = Math.floor(Math.random() * (mx - mn + 1)) + mn
+//     return a
+// } 
+
