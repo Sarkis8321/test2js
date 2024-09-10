@@ -46,4 +46,8 @@
 //     let a = Math.floor(Math.random() * (mx - mn + 1)) + mn
 //     return a
 // } 
-
+// стрелочная функция 
+let f = (mx, mn) => {
+    let a = Math.floor(Math.random() * (mx - mn + 1)) + mn
+    return a
+}
